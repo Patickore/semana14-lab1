@@ -11,7 +11,7 @@ namespace semana14_lab1
 {
 
 
-    public partial class _default
+    public partial class contactenos
     {
     }
 }
